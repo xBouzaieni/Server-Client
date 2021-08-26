@@ -66,8 +66,7 @@
 
 
 
-Server Client is a simple representation of how data can be transfered from a CLIENT to a SERVER 
-
+Server Client is a simple representation of how data can be transferred from a CLIENT to a SERVER.
 
 
 ### Built With
