@@ -57,7 +57,12 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-<img src="https://user-images.githubusercontent.com/54173932/130932075-5b0fb487-ca9c-4b56-9b8a-0857690fda9c.gif" alt="Paris" class="center">
+
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr><td align="center">
+<img src="https://user-images.githubusercontent.com/54173932/130932075-5b0fb487-ca9c-4b56-9b8a-0857690fda9c.gif">
+</td></tr>
+</table>
 
 	![Server Client]()
 
