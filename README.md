@@ -64,7 +64,6 @@
 </td></tr>
 </table>
 
-	![Server Client]()
 
 
 Server Client is a simple representation of how data can be transfered from a CLIENT to a SERVER 
