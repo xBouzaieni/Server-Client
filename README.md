@@ -57,9 +57,10 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-<p align="center">
-	![Server Client](https://user-images.githubusercontent.com/54173932/130932075-5b0fb487-ca9c-4b56-9b8a-0857690fda9c.gif)
-</p>
+<img src="https://user-images.githubusercontent.com/54173932/130932075-5b0fb487-ca9c-4b56-9b8a-0857690fda9c.gif" alt="Paris" class="center">
+
+	![Server Client]()
+
 
 Server Client is a simple representation of how data can be transfered from a CLIENT to a SERVER 
 
