@@ -11,9 +11,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/SamirBz/Server-Client">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+
 
   <h3 align="center">Server Client</h3>
 
@@ -59,9 +57,9 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-![Server Client](https://user-images.githubusercontent.com/54173932/130932075-5b0fb487-ca9c-4b56-9b8a-0857690fda9c.gif)
-
+<p align="center">
+	![Server Client](https://user-images.githubusercontent.com/54173932/130932075-5b0fb487-ca9c-4b56-9b8a-0857690fda9c.gif)
+</p>
 
 Server Client is a simple representation of how data can be transfered from a CLIENT to a SERVER 
 
