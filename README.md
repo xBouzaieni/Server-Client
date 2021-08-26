@@ -120,7 +120,7 @@ Contributions are what make the open source community such an amazing place to b
 <!-- LICENSE -->
 ## License
 
-Distributed under the https://github.com/SamirBz/Server-Client/blob/main/LICENSE. See `LICENSE` for more information.
+Distributed under the Creative Commons Zero v1.0 Universal LICENSE See `LICENSE` for more information.
 
 
 
@@ -156,7 +156,7 @@ You can add:
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
 [issues-url]: https://github.com/SamirBz/Server-Client/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/SamirBz/Server-Client/blob/master/LICENSE.txt
+[license-url]: https://github.com/SamirBz/Server-Client/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/samirbz
 [product-screenshot]: images/screenshot.png
